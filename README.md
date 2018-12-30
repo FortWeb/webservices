@@ -12,6 +12,6 @@ Tudo que você precisa para se aperfeiçoar na área do carding programmer.
 www.fortweb.org
 ```
 
-```![Figura 14.1](https://imgur.com/zy7IIQ7.png)```
+![Figura 14.1](https://imgur.com/zy7IIQ7.png)
 
 
